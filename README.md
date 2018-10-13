@@ -1,3 +1,3 @@
 # Laptops Website
 website marketing to many types of laptops
-demo: https://github.com/hmikki/Laptops-website
+demo: https://hmikki.github.io/Laptops-website/
